@@ -1,0 +1,28 @@
+               ********* DEVELOPMENT STEPS **********
+
+1.Identify variables
+2.Customer Registrartion Method----
+    --- Name
+    -- Auto generate Account No
+    --- Auto Generate Pin
+    -- Account Type
+3. looping till we get initial Balance > minimun balance(1000)
+4.Mobile Number
+5. Email id
+
+6.Generate Random Number
+
+7. use Switch case for all the inputs
+8.Update (set email and mobile number for the particular customer)
+9.delete customer
+10.deposit
+11.Withdraw money --Checking certain conditions
+12.If withdraw >50k --> Ask for Pan
+13.Subtract from main balance
+14.Show Account balance
+15.Show Customer details
+16.Transfer Money 
+  --- Subtracting from the bank account
+   -- aading to the given bank account
+  ---> if bank account not match show message
+17. Exit
